@@ -1,5 +1,4 @@
  
-
 ### Let's Connect:
 <p align="center">
 	<a href="https://github.com/sarincr"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -8,13 +7,14 @@
 	<a href="https://twitter.com/sarincr"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
-
 ### Embedded Systems
-![Embedded C](https://img.shields.io/badge/Microcontroller-Embedded%20C-green) 
-![ES](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) 
-![ES](https://img.shields.io/badge/raspberrypi-00979D?style=flat-square&logo=raspberrypi&logoColor=white) 
-![ES](https://img.shields.io/badge/stmicroelectronics-00979D?style=flat-square&logo=stmicroelectronics&logoColor=white) 
-![HW](https://img.shields.io/badge/AVR-ARDUINO-green) 
+![Embedded C](https://img.shields.io/badge/ESPL-Embedded%20C%2FC%2B%2B-critical) 
+![Embedded C](https://img.shields.io/badge/ESPL-Python-critical) 
+![Embedded C](https://img.shields.io/badge/ESPL-LUA-critical) 
+![Embedded C](https://img.shields.io/badge/ESPL-GO-critical) 
+![Embedded C](https://img.shields.io/badge/ESPL-RUBY-critical) 
+![Embedded C](https://img.shields.io/badge/ESPL-JS-critical)\
+![ES](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)  
 ![HW](https://img.shields.io/badge/PIC-16F877A-brightgreen) 
 ![HW](https://img.shields.io/badge/PIC-PIC18F4580-brightgreen) 
 ![HW](https://img.shields.io/badge/AVR-ATMEGA128-yellowgreen)
@@ -29,13 +29,14 @@
 ![HW](https://img.shields.io/badge/Cortex--M3-%20LPC1311%2F13%2F42%2F43-blueviolet)
 ![HW](https://img.shields.io/badge/Cortex--M4-%20STM32F446RE-blueviolet) 
 ![HW](https://img.shields.io/badge/Cortex--M4-Atmel%20SAM4E-blueviolet) 
-![HW](https://img.shields.io/badge/80xx-AT89C51-red) 
+![HW](https://img.shields.io/badge/80xx-AT89C51-9cf) 
 ![HW](https://img.shields.io/badge/Cypress-PSOC4-important) 
 ![HW](https://img.shields.io/badge/WIFI-ESP8266-yellow)
 ![HW](https://img.shields.io/badge/WIFI-LUA%20BOARD-yellow) 
 ![HW](https://img.shields.io/badge/WIFI-WEMOS%20D1-yellow) 
-![HW](https://img.shields.io/badge/ESP32%20-LOLIN%2032-yellow) 
-![HW](https://img.shields.io/badge/SBC-ORANGE%20PI-critical)
+![HW](https://img.shields.io/badge/ESP32%20-LOLIN%2032-yellow)\
+![HW](https://img.shields.io/badge/SBC-Raspberry%20PI-critical)
+![HW](https://img.shields.io/badge/SBC-ORANGE%20PI-critical)\
 ![IDE](https://img.shields.io/badge/IDE-Arduino-informational)
 ![IDE](https://img.shields.io/badge/IDE-Atmel%20Studio-informational)
 ![IDE](https://img.shields.io/badge/IDE-Coocox%20CoIDE-informational)
@@ -77,7 +78,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)!
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![ES](https://img.shields.io/badge/julia-%23026AA7.svg?style=flat-square&logo=julia&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![KOTLIN](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
