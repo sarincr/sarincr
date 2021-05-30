@@ -15,6 +15,7 @@
 ![Embedded C](https://img.shields.io/badge/ESPL-RUBY-critical) 
 ![Embedded C](https://img.shields.io/badge/ESPL-JS-critical)\
 ![ES](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)  
+![HW](https://img.shields.io/badge/80xx-AT89C51-9cf)
 ![HW](https://img.shields.io/badge/PIC-16F877A-brightgreen) 
 ![HW](https://img.shields.io/badge/PIC-PIC18F4580-brightgreen) 
 ![HW](https://img.shields.io/badge/AVR-ATMEGA128-yellowgreen)
@@ -28,15 +29,14 @@
 ![HW](https://img.shields.io/badge/Cortex--M3-STM32F100RB-blueviolet) 
 ![HW](https://img.shields.io/badge/Cortex--M3-%20LPC1311%2F13%2F42%2F43-blueviolet)
 ![HW](https://img.shields.io/badge/Cortex--M4-%20STM32F446RE-blueviolet) 
-![HW](https://img.shields.io/badge/Cortex--M4-Atmel%20SAM4E-blueviolet) 
-![HW](https://img.shields.io/badge/80xx-AT89C51-9cf) 
-![HW](https://img.shields.io/badge/Cypress-PSOC4-important) 
+![HW](https://img.shields.io/badge/Cortex--M4-Atmel%20SAM4E-blueviolet) \
 ![HW](https://img.shields.io/badge/WIFI-ESP8266-yellow)
 ![HW](https://img.shields.io/badge/WIFI-LUA%20BOARD-yellow) 
 ![HW](https://img.shields.io/badge/WIFI-WEMOS%20D1-yellow) 
 ![HW](https://img.shields.io/badge/ESP32%20-LOLIN%2032-yellow)\
 ![HW](https://img.shields.io/badge/SBC-Raspberry%20PI-critical)
 ![HW](https://img.shields.io/badge/SBC-ORANGE%20PI-critical)\
+![HW](https://img.shields.io/badge/Cypress-PSOC4-important)\
 ![IDE](https://img.shields.io/badge/IDE-Arduino-informational)
 ![IDE](https://img.shields.io/badge/IDE-Atmel%20Studio-informational)
 ![IDE](https://img.shields.io/badge/IDE-Coocox%20CoIDE-informational)
