@@ -72,8 +72,10 @@
 ![IDE](https://img.shields.io/badge/IDE-SCRATCH-informational)
 ![IDE](https://img.shields.io/badge/IDE-BLOCKLY-informational)
 ![IDE](https://img.shields.io/badge/IDE-BLOCKLINO-informational)
-![IDE](https://img.shields.io/badge/IDE-BlocklyDuino-informational)
-### Programming Languages : <br />
+![IDE](https://img.shields.io/badge/IDE-BlocklyDuino-informational)\
+![ES](https://img.shields.io/badge/node-red-%238F0000.svg?&style=flat-square&logo=node-red&logoColor=white) 
+![ES](https://img.shields.io/badge/xilinx-%23E01F27.svg?&style=flat-square&logo=xilinx&logoColor=white)  
+### Programming Languages and Visual Development : <br />
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=whi)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -84,7 +86,10 @@
 ![KOTLIN](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![RUBY](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![LUA](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![LUA](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)\
+![SCRATCH](https://img.shields.io/badge/scratch-%234D97FF.svg?&style=flat-square&logo=scratch&logoColor=white)
+![GNU Octave](https://img.shields.io/badge/octave-%230790C0.svg?&style=flat-square&logo=octave&logoColor=white)
+![Labview](https://img.shields.io/badge/labview-%23FFDB00.svg?&style=flat-square&logo=labview&logoColor=white)
 ### Data Science and Artificial Intelligence : <br />
 ![DS](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)&nbsp;
 ![DS](https://img.shields.io/badge/scipy-%23150458.svg?style=flat-square&logo=scipy&logoColor=white)&nbsp;
@@ -93,6 +98,7 @@
 ![DS](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)&nbsp;
 ![DS](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor)&nbsp;
 ![DS](https://img.shields.io/badge/plotly-%23150458.svg?style=flat-square&logo=plotly&logoColor=white)&nbsp;
+![DS](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)&nbsp;
 ### Web Design and Development : <br />
 ![HTML]( 	https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white6)&nbsp;
@@ -103,14 +109,30 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)&nbsp;
 ![RUBYONRAILS](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)&nbsp;\
+![JOOMLA](https://img.shields.io/badge/joomla-%235091CD.svg?style=flat-square&logo=joomla&logoColor=white)&nbsp;
 ### Integrated Development Environments : <br />
-![VSCODE](https://img.shields.io/badge/eclipseide-0078d7.svg?style=flat-square&logo=eclipseide&logoColor=white)&nbsp;
+![VSCODE](https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?style=flat-square&logo=eclipseide&logoColor=white)&nbsp;
 ![IDE](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)&nbsp;
 ![VSCODE](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/rstudio-%2375AADB.svg?style=flat-square&logo=rstudio&&logoColor=white)&nbsp;
 ![IDE](https://img.shields.io/badge/spyderide-143?style=flat-square&logo=spyderide&logoColor=black&color=black&labelColor=green)&nbsp;
 ![IDE](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![IDE](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)&nbsp;
 ![IDE](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)&nbsp;
 ![IDE](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat-square&logo=sublime-text&logoColor=important)&nbsp;
 ![IDE](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/gnu%20emacs-%237F5AB6.svg?style=flat-square&logo=emacs&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/vim-%23019733.svg?&style=flat-square&logo=vim&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/notepad++-%2390E59A.svg?&style=flat-square&logo=notepad&logoColor=white)&nbsp;
+### GUI and Cross Platform Development : <br />
+![IDE](https://img.shields.io/badge/qt-%237F5AB6.svg?&style=flat-square&logo=QT&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/OpenGL-%237F5AB6.svg?&style=flat-square&logo=opengl&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/GTK-%237F5AB6.svg?&style=flat-square&logo=gtk&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/Tkinter-%237F5AB6.svg?&style=flat-square&logo=Tkinter&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/wxWidgets-%237F5AB6.svg?&style=flat-square&logo=wxwidgets&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/FLTK-%237F5AB6.svg?&style=flat-square&logo=wxwidgets&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/Kivy-%237F5AB6.svg?&style=flat-square&logo=kivy&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/GObject-%237F5AB6.svg?&style=flat-square&logo=gobject&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/SFML-%237F5AB6.svg?&style=flat-square&logo=sfml&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/PySimpleGUI-%237F5AB6.svg?&style=flat-square&logo=pysimplegui&logoColor=white)&nbsp;
