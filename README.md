@@ -136,3 +136,7 @@
 ![IDE](https://img.shields.io/badge/GObject-%237F5AB6.svg?&style=flat-square&logo=gobject&logoColor=white)&nbsp;
 ![IDE](https://img.shields.io/badge/SFML-%237F5AB6.svg?&style=flat-square&logo=sfml&logoColor=white)&nbsp;
 ![IDE](https://img.shields.io/badge/PySimpleGUI-%237F5AB6.svg?&style=flat-square&logo=pysimplegui&logoColor=white)&nbsp;
+
+![alt text](https://github.com/sarincr/Machine-Learning-Python-Bootcamp/blob/master/IBM%20Badges.png)
+
+
