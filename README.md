@@ -141,7 +141,3 @@
 ![IDE](https://img.shields.io/badge/PLC-DELTA%20DVP--SX-critical)&nbsp;
 ![IDE](https://img.shields.io/badge/PLC-Zelio%20Logic%20LG-critical)&nbsp;
 ![IDE](https://img.shields.io/badge/PLC-Zelio%20Logic%20FBD-critical)&nbsp;
-
-![alt text](https://github.com/sarincr/Machine-Learning-Python-Bootcamp/blob/master/IBM%20Badges.png)
-
-
