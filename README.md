@@ -141,3 +141,4 @@
 ![IDE](https://img.shields.io/badge/PLC-DELTA%20DVP--SX-critical)&nbsp;
 ![IDE](https://img.shields.io/badge/PLC-Zelio%20Logic%20LG-critical)&nbsp;
 ![IDE](https://img.shields.io/badge/PLC-Zelio%20Logic%20FBD-critical)&nbsp;
+![IDE](https://img.shields.io/badge/PLC-OpenPLC%20Editor-critical)&nbsp;
