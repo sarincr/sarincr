@@ -75,6 +75,19 @@
 ![IDE](https://img.shields.io/badge/IDE-BlocklyDuino-informational)\
 ![ES](https://img.shields.io/badge/node-red-%238F0000.svg?&style=flat-square&logo=node-red&logoColor=white) 
 ![ES](https://img.shields.io/badge/xilinx-%23E01F27.svg?&style=flat-square&logo=xilinx&logoColor=white)  
+
+### PLC, SCADA and DCS: <br />
+![IDE](https://img.shields.io/badge/PLC-DELTA%20DVP--SX-critical)&nbsp;
+![IDE](https://img.shields.io/badge/PLC-Zelio%20Logic%20LG-critical)&nbsp;
+![IDE](https://img.shields.io/badge/PLC-Zelio%20Logic%20FBD-critical)&nbsp;
+![IDE](https://img.shields.io/badge/PLC-OpenPLC%20Editor-critical)&nbsp;
+
+### Electronic Design Automation , SPICE, MDA and CAD : <br />
+![IDE](https://img.shields.io/badge/EDA-NI%20Multisim-blueviolet)&nbsp;
+![IDE](https://img.shields.io/badge/EDA-Tinkercad-blueviolet)&nbsp;
+![IDE](https://img.shields.io/badge/EDA-Proteus%20Design%20Suite-blueviolet)&nbsp;
+![IDE](https://img.shields.io/badge/CAD-OpenSCAD-navy)&nbsp;
+
 ### Programming Languages and Visual Development : <br />
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=whi)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -136,9 +149,3 @@
 ![IDE](https://img.shields.io/badge/GObject-%237F5AB6.svg?&style=flat-square&logo=gobject&logoColor=white)&nbsp;
 ![IDE](https://img.shields.io/badge/SFML-%237F5AB6.svg?&style=flat-square&logo=sfml&logoColor=white)&nbsp;
 ![IDE](https://img.shields.io/badge/PySimpleGUI-%237F5AB6.svg?&style=flat-square&logo=pysimplegui&logoColor=white)&nbsp;
-
-### PLC, SCADA and DCS: <br />
-![IDE](https://img.shields.io/badge/PLC-DELTA%20DVP--SX-critical)&nbsp;
-![IDE](https://img.shields.io/badge/PLC-Zelio%20Logic%20LG-critical)&nbsp;
-![IDE](https://img.shields.io/badge/PLC-Zelio%20Logic%20FBD-critical)&nbsp;
-![IDE](https://img.shields.io/badge/PLC-OpenPLC%20Editor-critical)&nbsp;
