@@ -81,6 +81,8 @@
 ![IDE](https://img.shields.io/badge/PLC-Zelio%20Logic%20LG-critical)&nbsp;
 ![IDE](https://img.shields.io/badge/PLC-Zelio%20Logic%20FBD-critical)&nbsp;
 ![IDE](https://img.shields.io/badge/PLC-OpenPLC%20Editor-critical)&nbsp;
+![IDE](https://img.shields.io/badge/PLC-DELTA%20ISPSoft-critical)&nbsp;
+![IDE](https://img.shields.io/badge/PLC-Siemens%20LogoSoft%20-critical)&nbsp;
 
 ### Electronic Design Automation , SPICE, MDA and CAD : <br />
 ![IDE](https://img.shields.io/badge/EDA-NI%20Multisim-blueviolet)&nbsp;
