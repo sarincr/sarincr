@@ -84,11 +84,19 @@
 ![IDE](https://img.shields.io/badge/PLC-DELTA%20ISPSoft-critical)&nbsp;
 ![IDE](https://img.shields.io/badge/PLC-Siemens%20LogoSoft%20-critical)&nbsp;
 
-### Electronic Design Automation , SPICE, MDA and CAD : <br />
-![IDE](https://img.shields.io/badge/EDA-NI%20Multisim-blueviolet)&nbsp;
-![IDE](https://img.shields.io/badge/EDA-Tinkercad-blueviolet)&nbsp;
-![IDE](https://img.shields.io/badge/EDA-Proteus%20Design%20Suite-blueviolet)&nbsp;
-![IDE](https://img.shields.io/badge/CAD-OpenSCAD-navy)&nbsp;
+### Cross Platform App evelopment : <br />
+![IDE](https://img.shields.io/badge/qt-%237F5AB6.svg?&style=flat-square&logo=QT&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/OpenGL-%237F5AB6.svg?&style=flat-square&logo=opengl&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/GTK-%237F5AB6.svg?&style=flat-square&logo=gtk&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/Tkinter-%237F5AB6.svg?&style=flat-square&logo=Tkinter&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/wxW-%237F5AB6.svg?&style=flat-square&logo=wxwidgets&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/FLTK-%237F5AB6.svg?&style=flat-square&logo=wxwidgets&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/Kivy-%237F5AB6.svg?&style=flat-square&logo=kivy&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/GObject-%237F5AB6.svg?&style=flat-square&logo=gobject&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/SFML-%237F5AB6.svg?&style=flat-square&logo=sfml&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/PySimpleGUI-%237F5AB6.svg?&style=flat-square&logo=pysimplegui&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/appJar-%237F5AB6.svg?&style=flat-square&logo=sfml&logoColor=white)&nbsp;
+![IDE](https://img.shields.io/badge/PySide-%237F5AB6.svg?&style=flat-square&logo=pysimplegui&logoColor=white)&nbsp;
 
 ### Programming Languages and Visual Development : <br />
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=whi)
@@ -105,6 +113,7 @@
 ![SCRATCH](https://img.shields.io/badge/scratch-%234D97FF.svg?&style=flat-square&logo=scratch&logoColor=white)
 ![GNU Octave](https://img.shields.io/badge/octave-%230790C0.svg?&style=flat-square&logo=octave&logoColor=white)
 ![Labview](https://img.shields.io/badge/labview-%23FFDB00.svg?&style=flat-square&logo=labview&logoColor=white)
+
 ### Data Science and Artificial Intelligence : <br />
 ![DS](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)&nbsp;
 ![DS](https://img.shields.io/badge/scipy-%23150458.svg?style=flat-square&logo=scipy&logoColor=white)&nbsp;
@@ -126,6 +135,13 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)&nbsp;\
 ![JOOMLA](https://img.shields.io/badge/joomla-%235091CD.svg?style=flat-square&logo=joomla&logoColor=white)&nbsp;
+
+### Electronic Design Automation , SPICE, MDA and CAD : <br />
+![IDE](https://img.shields.io/badge/EDA-NI%20Multisim-blueviolet)&nbsp;
+![IDE](https://img.shields.io/badge/EDA-Tinkercad-blueviolet)&nbsp;
+![IDE](https://img.shields.io/badge/EDA-Proteus%20Design%20Suite-blueviolet)&nbsp;
+![IDE](https://img.shields.io/badge/CAD-OpenSCAD-navy)&nbsp;
+
 ### Integrated Development Environments : <br />
 ![VSCODE](https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?style=flat-square&logo=eclipseide&logoColor=white)&nbsp;
 ![IDE](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)&nbsp;
@@ -140,14 +156,4 @@
 ![IDE](https://img.shields.io/badge/gnu%20emacs-%237F5AB6.svg?style=flat-square&logo=emacs&logoColor=white)&nbsp;
 ![IDE](https://img.shields.io/badge/vim-%23019733.svg?&style=flat-square&logo=vim&logoColor=white)&nbsp;
 ![IDE](https://img.shields.io/badge/notepad++-%2390E59A.svg?&style=flat-square&logo=notepad&logoColor=white)&nbsp;
-### GUI and Cross Platform Development : <br />
-![IDE](https://img.shields.io/badge/qt-%237F5AB6.svg?&style=flat-square&logo=QT&logoColor=white)&nbsp;
-![IDE](https://img.shields.io/badge/OpenGL-%237F5AB6.svg?&style=flat-square&logo=opengl&logoColor=white)&nbsp;
-![IDE](https://img.shields.io/badge/GTK-%237F5AB6.svg?&style=flat-square&logo=gtk&logoColor=white)&nbsp;
-![IDE](https://img.shields.io/badge/Tkinter-%237F5AB6.svg?&style=flat-square&logo=Tkinter&logoColor=white)&nbsp;
-![IDE](https://img.shields.io/badge/wxWidgets-%237F5AB6.svg?&style=flat-square&logo=wxwidgets&logoColor=white)&nbsp;
-![IDE](https://img.shields.io/badge/FLTK-%237F5AB6.svg?&style=flat-square&logo=wxwidgets&logoColor=white)&nbsp;
-![IDE](https://img.shields.io/badge/Kivy-%237F5AB6.svg?&style=flat-square&logo=kivy&logoColor=white)&nbsp;
-![IDE](https://img.shields.io/badge/GObject-%237F5AB6.svg?&style=flat-square&logo=gobject&logoColor=white)&nbsp;
-![IDE](https://img.shields.io/badge/SFML-%237F5AB6.svg?&style=flat-square&logo=sfml&logoColor=white)&nbsp;
-![IDE](https://img.shields.io/badge/PySimpleGUI-%237F5AB6.svg?&style=flat-square&logo=pysimplegui&logoColor=white)&nbsp;
+
