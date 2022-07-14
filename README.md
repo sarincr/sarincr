@@ -1,11 +1,13 @@
  
 ### Let's Connect:
 <p align="center">
-	<a href="https://github.com/sarincr"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/sarincr/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/sarinscr/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/sarincr"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://gitlab.com/sarincr"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+	<a href="https://www.linkedin.com/in/sarincr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+	<a href="https://www.instagram.com/sarinscr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://twitter.com/sarincr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+	<a href="https://wa.me/919605063204"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WP"/></a>
 </p>
+
 
 ### Embedded Systems
 ![Embedded C](https://img.shields.io/badge/ESPL-Embedded%20C%2FC%2B%2B-critical) 
@@ -123,6 +125,10 @@
 ![DS](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor)&nbsp;
 ![DS](https://img.shields.io/badge/plotly-%23150458.svg?style=flat-square&logo=plotly&logoColor=white)&nbsp;
 ![DS](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)&nbsp;
+![DS](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)&nbsp; <br />
+![DS](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
+![DS](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
+
 ### Web Design and Development : <br />
 ![HTML]( 	https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white6)&nbsp;
