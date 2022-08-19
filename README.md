@@ -9,6 +9,30 @@
 </p>
 
 
+### Data Science and Artificial Intelligence : <br />
+![DS](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)&nbsp;
+![DS](https://img.shields.io/badge/scipy-%23150458.svg?style=flat-square&logo=scipy&logoColor=white)&nbsp;
+![DS](https://img.shields.io/badge/scikit-learn-%23150458.svg?style=flat-square&logo=scikit-learn&logoColor=white)&nbsp;
+![DS](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)&nbsp;
+![DS](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)&nbsp;
+![DS](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor)&nbsp;
+![DS](https://img.shields.io/badge/plotly-%23150458.svg?style=flat-square&logo=plotly&logoColor=white)&nbsp;
+![DS](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)&nbsp;
+ <br />
+![DS](https://img.shields.io/badge/ALTERYX-INTELLIGENT%20SUITE-orange)&nbsp;
+![DS](https://img.shields.io/badge/Zoho-DA%20and%20BI-orange)&nbsp;
+![DS](https://img.shields.io/badge/Rapidminer-BI-orange)&nbsp;
+![DS](https://img.shields.io/badge/Orrange-DM-orange)&nbsp;
+![DS](https://img.shields.io/badge/KNIME-BI-orange)&nbsp;
+![DS](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
+![DS](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
+![DS](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)&nbsp;
+ <br />
+  ![DS](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+ ![DS](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+  ![DS]( 	https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)&nbsp;
+   ![DS](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)&nbsp;
+ 
 ### Embedded Systems
 ![Embedded C](https://img.shields.io/badge/ESPL-Embedded%20C%2FC%2B%2B-critical) 
 ![Embedded C](https://img.shields.io/badge/ESPL-Python-critical) 
@@ -115,19 +139,6 @@
 ![SCRATCH](https://img.shields.io/badge/scratch-%234D97FF.svg?&style=flat-square&logo=scratch&logoColor=white)
 ![GNU Octave](https://img.shields.io/badge/octave-%230790C0.svg?&style=flat-square&logo=octave&logoColor=white)
 ![Labview](https://img.shields.io/badge/labview-%23FFDB00.svg?&style=flat-square&logo=labview&logoColor=white)
-
-### Data Science and Artificial Intelligence : <br />
-![DS](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)&nbsp;
-![DS](https://img.shields.io/badge/scipy-%23150458.svg?style=flat-square&logo=scipy&logoColor=white)&nbsp;
-![DS](https://img.shields.io/badge/scikit-learn-%23150458.svg?style=flat-square&logo=scikit-learn&logoColor=white)&nbsp;
-![DS](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)&nbsp;
-![DS](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)&nbsp;
-![DS](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor)&nbsp;
-![DS](https://img.shields.io/badge/plotly-%23150458.svg?style=flat-square&logo=plotly&logoColor=white)&nbsp;
-![DS](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)&nbsp;
-![DS](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)&nbsp; <br />
-![DS](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
-![DS](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 
 ### Web Design and Development : <br />
 ![HTML]( 	https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)&nbsp;
