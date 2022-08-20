@@ -24,6 +24,7 @@
 ![DS](https://img.shields.io/badge/Rapidminer-BI-orange)&nbsp;
 ![DS](https://img.shields.io/badge/Orrange-DM-orange)&nbsp;
 ![DS](https://img.shields.io/badge/KNIME-BI-orange)&nbsp;
+ <br />
 ![DS](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
 ![DS](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 ![DS](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)&nbsp;
@@ -32,7 +33,17 @@
  ![DS](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
   ![DS]( 	https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)&nbsp;
    ![DS](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)&nbsp;
- 
+### Databases and Warehouses
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+
 ### Embedded Systems
 ![Embedded C](https://img.shields.io/badge/ESPL-Embedded%20C%2FC%2B%2B-critical) 
 ![Embedded C](https://img.shields.io/badge/ESPL-Python-critical) 
